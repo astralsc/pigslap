@@ -17,7 +17,6 @@ if not MainMenu:FindFirstChild("Play_2021") then
 	Fake_Title.Position = UDim2.new(-2.31861877, 0, -5.59207821, 0)
 	Fake_Title.Size = UDim2.new(6.74556494, 0, 4.50578308, 0)
 	Fake_Title.Image = "rbxasset://102149925390883"
-	Fake_Title.Visible = true
 	
 	local function playmenu_modification()
 		local PlayMenu = MainMenu.PlayMenu
