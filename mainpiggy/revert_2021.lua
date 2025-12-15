@@ -1788,6 +1788,8 @@ if not MainMenu:FindFirstChild("Play_2021") then
 	Title_3.TextStrokeTransparency = 0.000
 	Title_3.TextWrapped = true
 
+	Fake_Title.Visible = true
+
 	-- Scripts:
 
 	if not MainMenu.SkinsFrame.ShopMenu:FindFirstChild("TrapTab") and not MainMenu.SkinsFrame.ShopMenu:FindFirstChild("TrapList") then
